@@ -22,3 +22,9 @@
 en:
   sessions_controller:
     invalid_login_attempt: "Invalid login attempt"
+  users_controller:
+    user_create_error: "Couldn't create account. Make sure email and username are provided, and that password matches the confirmation."
+  stories_controller:
+    stories_create_error: "Couldn't save your story :-("
+
+
